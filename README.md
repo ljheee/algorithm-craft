@@ -10,6 +10,7 @@ BFS、DFS、迪杰斯特拉
 dp、背包问题
 
 - 树
+哈夫曼树、二叉树、字典树、红黑树
 
 有向图-最短路径Dijkstra
 ![avatar](./doc/directed graph.png)
